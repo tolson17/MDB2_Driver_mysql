@@ -1,0 +1,11 @@
+{
+  "name": "tolson17/MDB2_Driver_mysql",
+  "type": "library",
+  "description": "Fork for mbd2 mysql driver to support php7",
+  "keywords": [
+    "mdb2",
+    "php7"
+  ],
+  "homepage": "https://github.com/tolson17/MDB2_Driver_mysql",
+  "license": "MIT"
+}
